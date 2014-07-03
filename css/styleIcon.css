@@ -1,0 +1,78 @@
+/* 
+    Document   : styleIcon
+    Created on : 31-ene-2013, 13:52:30
+    Author     : JUAN CARLOS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.add {
+    background-image:url(../img/add.png) !important;
+}
+.add2 {
+    background-image:url(../img/add2.png) !important;
+}
+.atraz {
+    background-image:url(../img/application_side_contract.png) !important;
+}
+.delete {
+    background-image:url(../img/delete.gif) !important;
+}
+.search {
+    background-image:url(../img/search.png) !important;
+}
+.edit{
+    background-image:url(../img/edit.png) !important;
+}
+.detail{
+    background-image:url(../img/detail.png) !important;
+}
+.calendar{
+    background-image:url(../img/calendar.png) !important;
+}
+.close{
+    background-image:url(../img/close.png) !important;
+}
+.print{
+    background-image:url(../img/print.png) !important;
+}
+.print1{
+    background-image:url(../img/print1.png) !important;
+}
+.aceptar{
+    background-image:url(../img/aceptar.png) !important;
+}
+.user{
+    background-image:url(../img/user.png) !important;
+}
+.save{
+    background-image:url(../img/save.png) !important;
+}
+.save2{
+    background-image:url(../img/save2.png) !important;
+}
+.modify{
+    background-image:url(../img/modify.png) !important;
+}
+.document{
+    background-image:url(../img/document.png) !important;
+}
+.document1{
+    background-image:url(../img/document1.png) !important;
+}
+.previus{
+    background-image:url(../img/previus.png) !important;
+}
+.report{
+    background-image:url(../img/report.png) !important;
+}
+/* styles used for the cells */
+.readonlycell { 
+  background-color:#CCCCCC !important;
+}
+.coolcell { 
+  background-image:url(../img/cellbck.jpg) !important;
+}
+.openform { 
+  background-image:url(../img/application_form_magnify.png) !important;
+}

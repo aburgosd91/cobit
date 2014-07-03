@@ -1,0 +1,29 @@
+/* 
+    Document   : style
+    Created on : 31-ene-2013, 11:40:58
+    Author     : JUAN CARLOS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#header {
+    background: #7F99BE url(../img/layout.gif) repeat-x center;
+}
+#header h1 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+/*#ext-gen173{
+    background-color:#4d341a; 
+}*/
+/*.menu-hijos{
+   color:#FFFFFF;
+   font-size:12px;
+   text-decoration-color: #FFFFFF;
+}*/
+/*.x-tree-node a span, .x-dd-drag-ghost a span{
+    color:#FFFFFF;
+    font-weight: normal;
+    font-size:12px;
+}*/
